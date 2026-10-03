@@ -1,4 +1,4 @@
-# CIT 305 Module 11 Reference Project
+# Version Control and DevOps for Integration Reference Project
 
 This small project supports the guided laboratory on Git workflows and GitHub Actions.
 It intentionally uses only the Python standard library.
